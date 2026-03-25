@@ -17,9 +17,12 @@
 
 ### 📌 Projects
 - Civic Fixer Dashboard
-- Mini WhatsApp Clone
 - WanderLust
 - Vantura
+- Mini WhatsApp Clone
+- Spotify Clone
+- Tic Tac Toe Game
+- Simon Says Game
 
 ---
 
