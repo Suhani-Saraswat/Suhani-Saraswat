@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Suhani Saraswat</h1>
 
-<!--
-**Suhani-Saraswat/Suhani-Saraswat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student  
+💻 MERN Stack Developer (Learning & Building)  
+📈 400+ Contributions in last year  
+🚀 Currently working on React & Backend Projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- Frontend: React, HTML, CSS, JavaScript
+- Backend: Node.js, Express, Ejs
+- Database: MongoDB, MySQL
+- Languages: C++, JavaScript, Python
+
+---
+
+### 📌 Projects
+- Civic Fixer Dashboard
+- Mini WhatsApp Clone
+- WanderLust
+- Vantura
+
+---
+
+### 📫 Connect With Me
+LinkedIn: https://www.linkedin.com/in/suhani-saraswat
